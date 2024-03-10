@@ -1,4 +1,4 @@
-package com.alejandroem.taskforce.backend;
+package com.alejandroem.taskforce_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
